@@ -1,0 +1,35 @@
+body{
+    background-color:white;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+}
+
+.container{
+    background-color: black;
+    
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: auto;
+    display: flex;
+    justify-content: center;
+}
+ul li{
+  margin: 0 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+    height: 70px;
+}
+div{
+    background-color: blue
+}
+.example{
+    display:flex;
+    justify-content:center;
+}
