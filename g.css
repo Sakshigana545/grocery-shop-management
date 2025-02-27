@@ -1,0 +1,20 @@
+body {
+    background-color: pink;
+    color: white;
+    font-size: 20px;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+img {
+    border: 2px solid black;
+    
+}
+
+#oneDiv {
+    display: flex;
+    gap: 10px;  /* Adds space between images */
+    flex-wrap: nowrap;  /* Ensures images stay in one line */
+}
